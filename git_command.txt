@@ -27,6 +27,11 @@ git remote add origin https://gitlab.com/initiald/look.git
 git push -u origin --all
 git push -u origin --tags
 
+push an existing repository from the command line (github)
+
+git remote add origin https://github.com/Initialdsoftdev/initiald_labs.git
+git push -u origin master
+
 #######
 To add new files to the repository or add changed files to staged area:
 
