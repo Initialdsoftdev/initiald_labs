@@ -1,0 +1,11 @@
+#home {
+    width: 46px;
+    height: 44px;
+    background: url(banks.png) 5px 6px;
+}
+
+#next {
+    width: 56px;
+    height: 44px;
+    background: url(banks.png) -10px 60px;
+}
